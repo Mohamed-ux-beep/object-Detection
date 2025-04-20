@@ -5,8 +5,8 @@ This project demonstrates an end-to-end object detection workflow using [Ultraly
 ## 📸 Dataset
 
 The dataset consists of:
-- ✅ 30+ images of **cars**
-- ✅ 30+ images of **trash bins**
+- ✅ 20+ images of **cars**
+- ✅ 20+ images of **trash bins**
 - ✅ Annotations created manually using [makesense.ai](https://www.makesense.ai/)
 
 The data is organized as follows:
